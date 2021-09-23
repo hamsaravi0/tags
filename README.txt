@@ -1,4 +1,3 @@
-Perpetua Backend API Challenge 2021:
 
 Getting Started:
 This is an example of how to get this project running! 
